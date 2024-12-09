@@ -1,4 +1,4 @@
-# ZeroG_Mercury_One.1_Hydra
+# ZeroG Mercury One.1 Hydra
 Welcome to the configuration repository for my **Ender 5 Pro** that I converted to a **ZeroG Mercury One.1 Hydra 3D Printer**! This repository contains all the configuration files, macros, and scripts needed to run my custom setup powered by [Klipper firmware](https://www.klipper3d.org/).
 
 The folder titled **Printer_Klipper_Configs** contains all of the configuration files that I am currently running on my 3D Printer. Most of my printer was inspired by the stock ZeroG build, except the toolhead where I use the Voron Stealthburner.
