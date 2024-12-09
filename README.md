@@ -6,14 +6,14 @@ The folder titled **Printer_Klipper_Configs** contains all of the configuration 
 ---
 
 ## Custom Changes
-- Recently, I wanted to add a nozzle wiper to my printer so I designed a nozzle wiper. This is inspired by the Bambu Lab X1 Carbon poop chute using the A1 wiper. And the macro for it can be found in `macros.cfg`.
-- I created a gusset plate for the top of my printer so I could remove the top front bar and maintain some rigidity. 
+- I wanted to add a nozzle wiper to my printer so I designed a nozzle wiper. This is inspired by the Bambu Lab X1 Carbon poop chute using the A1 wiper. The macro for it can be found in `macros.cfg`.
+- Created a gusset plate for the top of my printer so I could remove the top front bar and maintain some rigidity.
 
 ---
 
 ## Contents of Note
 
-- `Custom_Changes/`
+- `Custom_Changes`: Folder containing all of the custom 3D Printed parts that I used for this build.
 - `printer.cfg`: Main configuration file for the printer.
 - `macros.cfg`: Custom macros to enhance functionality.
 - `KAMP_Settings.cfg`: [Klipper Adaptive Meshing & Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
