@@ -13,6 +13,7 @@ The folder titled **Printer_Klipper_Configs** contains all of the configuration 
 
 ## Contents of Note
 
+- `Custom_Changes/`
 - `printer.cfg`: Main configuration file for the printer.
 - `macros.cfg`: Custom macros to enhance functionality.
 - `KAMP_Settings.cfg`: [Klipper Adaptive Meshing & Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
