@@ -5,8 +5,9 @@ The folder titled **Printer_Klipper_Configs** contains all of the configuration 
 
 ---
 
-## Updates
+## Custom Changes
 - Recently, I wanted to add a nozzle wiper to my printer so I designed a nozzle wiper. This is inspired by the Bambu Lab X1 Carbon poop chute using the A1 wiper. And the macro for it can be found in `macros.cfg`.
+- I created a gusset plate for the top of my printer so I could remove the top front bar and maintain some rigidity. 
 
 ---
 
