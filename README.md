@@ -3,8 +3,7 @@ Welcome to the configuration repository for my **Ender 5 Pro** that I converted 
 
 The folder titled **Printer_Klipper_Configs** contains all of the configuration files that I am currently running on my 3D Printer. Most of my printer was inspired by the stock ZeroG build, except the toolhead where I use the Voron Stealthburner.
 
-![Alt text](.myprinter.jpg)
-
+![My Printer](myprinter.jpg)
 
 ---
 
