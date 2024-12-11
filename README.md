@@ -5,6 +5,8 @@ The folder titled **Printer_Klipper_Configs** contains all of the configuration 
 
 ![My Printer](myprinter.jpg)
 
+<img src="myprinter.jpg" alt="My Printer" width="500">
+
 ---
 
 ## Custom Changes
