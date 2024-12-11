@@ -9,7 +9,7 @@ The folder titled **Printer_Klipper_Configs** contains all of the configuration 
 - I wanted to add a nozzle wiper to my printer so I designed a nozzle wiper. This is inspired by the Bambu Lab X1 Carbon poop chute using the A1 wiper. The macro for it can be found in `macros.cfg`.
 
 <video controls width="600">
-  <source src=".ZeroG_Mercury_One.1_Hydra/Custom_Changes/ZeroG_Wiper_+_Poop_Chute/Nozzle_Wipe.mp4" type="video/mp4">
+  <source src="ZeroG_Mercury_One.1_Hydra/Custom_Changes/ZeroG_Wiper_+_Poop_Chute/Nozzle_Wipe.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
