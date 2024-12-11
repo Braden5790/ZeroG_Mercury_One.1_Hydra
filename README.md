@@ -12,6 +12,9 @@ The folder titled **Printer_Klipper_Configs** contains all of the configuration 
 
 ![Nozzle Wiper](./Custom_Changes/ZeroG_Wiper_+_Poop_Chute/Nozzle_Wiper.jpeg)
 
+<img src="./Custom_Changes/ZeroG_Wiper_+_Poop_Chute/Nozzle_Wiper.jpeg" alt="Nozzle Wiper" width="500">
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Nozzle Wiper In Action:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Nozzle Wiper In Action](https://img.youtube.com/vi/vOTouopDlZY/0.jpg)](https://www.youtube.com/shorts/vOTouopDlZY)
